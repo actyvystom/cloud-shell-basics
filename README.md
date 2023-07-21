@@ -1,7 +1,6 @@
 # 💎 Treasure Hunt 💎
 
-**Find the lost diamond of the ancient monarch of treasure island!** Navigate through the `treasure
-island` folder only with the terminal and find the treasure.
+**Find the lost diamond of the ancient monarch of treasure island!** Navigate through the `treasure-island` folder only with the terminal and find the treasure.
 
 Use the following commands:
 
